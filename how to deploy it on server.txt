@@ -1,0 +1,3 @@
+-In order to deploy the application on the server I can used git plateform to automate the version control and use CI/CD pipeline to automate the deployment.
+
+-The other option is to use devops like kubernete to automate the whole deployment process.
